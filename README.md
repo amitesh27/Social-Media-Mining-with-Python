@@ -1,4 +1,4 @@
-# Social-Media-Mining-with-Python
+
 
 
 from tweepy.streaming import StreamListener
@@ -9,9 +9,13 @@ import json
 import datetime
 
 #Variables that contains the user credentials to access Twitter API
+
 access_token = "872442140944719872-wHUNUiM4oZDwzUUAsOFEOWxMhUCtYBy"
+
 access_token_secret = "nkVDPWKd5RVYW12yKHKMzaBlBp11Fw0LEXLzID8ESD0Cd"
+
 consumer_key = "jL7h4jSaDthoEUTxT8f37nUWD"
+
 consumer_secret = "ewxCI1JfNAsm1hrhhoGyMAghz6LcAx4n9jUzkbK4Tdo6k9TQLn"
 
 
